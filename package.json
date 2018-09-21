@@ -1,0 +1,34 @@
+{
+  "name": "@teamlck/listenport",
+  "version": "0.1.0",
+  "description": "Check your current listening port",
+  "bin": {
+    "listenport": "./bin/listenport.js"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js lib bin",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamlck/listenport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teamlck/listenport.git/issues"
+  },
+  "author": "norux",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.6.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
