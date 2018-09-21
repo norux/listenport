@@ -1,13 +1,14 @@
 {
   "name": "@teamlck/listenport",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check your current listening port",
   "bin": {
     "listenport": "./bin/listenport.js"
   },
   "scripts": {
     "lint": "eslint --ext .js lib bin",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",
