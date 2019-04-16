@@ -1,6 +1,6 @@
 {
-  "name": "@teamlck/listenport",
-  "version": "0.1.1",
+  "name": "@norux/listenport",
+  "version": "1.0.0",
   "description": "Check your current listening port",
   "bin": {
     "listenport": "./bin/listenport.js"
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teamlck/listenport.git"
+    "url": "git+https://github.com/norux/listenport.git"
   },
   "bugs": {
-    "url": "https://github.com/teamlck/listenport.git/issues"
+    "url": "https://github.com/norux/listenport.git/issues"
   },
   "author": "norux",
   "license": "MIT",

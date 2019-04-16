@@ -2,14 +2,14 @@
 
 Print process information of currently listening port.
 
-[![npm (scoped)](https://img.shields.io/npm/v/@teamlck/listenport.svg)](https://www.npmjs.com/package/@teamlck/listenport)
-[![Build Status](https://travis-ci.org/teamlck/listenport.svg?branch=master)](https://travis-ci.org/teamlck/listenport)
+[![npm (scoped)](https://img.shields.io/npm/v/@norux/listenport.svg)](https://www.npmjs.com/package/@norux/listenport)
+[![Build Status](https://travis-ci.org/norux/listenport.svg?branch=master)](https://travis-ci.org/norux/listenport)
 
 ## How to install
 
 **Install latest**
 ```bash
-$ npm i -g @teamlck/listenport
+$ npm i -g @norux/listenport
 ```
 
 ## Usage
@@ -44,4 +44,4 @@ Usage over the
 
 ## Contribution
    
-* slack: [teamlck#general](https://teamlck.slack.com/messages/CCPLB4X16)
+* slack: [norux#listenport](https://norux.slack.com/messages/CHX4U9161)
